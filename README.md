@@ -2,6 +2,9 @@
 
 An ADA accessibility auditing tool that scores real-world locations from public web data and lets you preview a building's interior in 3D before you visit.
 
+Devpost: [devpost.com/software/straightline](https://devpost.com/software/straightline)
+Live product: [straight-line.tech](https://www.straight-line.tech/)
+
 ## Demo
 
 [DEMO GIF OR VIDEO LINK GOES HERE]
